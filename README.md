@@ -14,7 +14,8 @@ Currently compatible with Python 2.7+
 
 ## Features
 1. File downloading, if it is on Campusnet, that means it is in your harddrive as well.
-2. Flexible intervals, you can set an interval for synchronizing files.
+2. File version control, if a file is updated, it will be updated to your harddrive as well.
+3. Flexible intervals, you can set an interval for synchronizing files.
 
 ## FAQ
 
