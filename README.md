@@ -1,7 +1,7 @@
 CNSync
 ======
 
-File Synchronizer for CampusNet v0.0.1
+File Synchronizer for CampusNet v0.0.1 (only for DTU students currently)
 
 ## Usage
 
@@ -23,3 +23,4 @@ Currently compatible with Python 2.7+
 ## TODO
 * Dropbox integration
 * Increased API coverage
+* Handle other universities using CampusNet 
