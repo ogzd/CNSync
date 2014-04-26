@@ -12,6 +12,10 @@ File Synchronizer for CampusNet v0.0.1
 
 Currently compatible with Python 2.7+
 
+## Features
+1. File downloading, if it is on Campusnet, that means it is in your harddrive as well.
+2. Flexible intervals, you can set an interval for synchronizing files.
+
 ## FAQ
 
 * Used CampusNet REST API, you can find the documentation [here](https://www.campusnet.dtu.dk/data/Documentation/Index.aspx).
